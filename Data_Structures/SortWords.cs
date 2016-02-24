@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lists{
+namespace SortWords{
     class SortWords{
 
         static void sort(List<String> list) {
