@@ -1,0 +1,5 @@
+c:\users\yo-yo\documents\visual studio 2013\Projects\ConnectedAreasInMatrix\ConnectedAreasInMatrix\bin\Debug\ConnectedAreasInMatrix.exe.config
+c:\users\yo-yo\documents\visual studio 2013\Projects\ConnectedAreasInMatrix\ConnectedAreasInMatrix\bin\Debug\ConnectedAreasInMatrix.exe
+c:\users\yo-yo\documents\visual studio 2013\Projects\ConnectedAreasInMatrix\ConnectedAreasInMatrix\bin\Debug\ConnectedAreasInMatrix.pdb
+c:\users\yo-yo\documents\visual studio 2013\Projects\ConnectedAreasInMatrix\ConnectedAreasInMatrix\obj\Debug\ConnectedAreasInMatrix.exe
+c:\users\yo-yo\documents\visual studio 2013\Projects\ConnectedAreasInMatrix\ConnectedAreasInMatrix\obj\Debug\ConnectedAreasInMatrix.pdb

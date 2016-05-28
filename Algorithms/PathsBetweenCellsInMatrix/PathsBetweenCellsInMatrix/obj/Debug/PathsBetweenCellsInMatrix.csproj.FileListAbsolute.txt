@@ -1,0 +1,6 @@
+c:\users\yo-yo\documents\visual studio 2013\Projects\PathsBetweenCellsInMatrix\PathsBetweenCellsInMatrix\bin\Debug\PathsBetweenCellsInMatrix.exe.config
+c:\users\yo-yo\documents\visual studio 2013\Projects\PathsBetweenCellsInMatrix\PathsBetweenCellsInMatrix\bin\Debug\PathsBetweenCellsInMatrix.exe
+c:\users\yo-yo\documents\visual studio 2013\Projects\PathsBetweenCellsInMatrix\PathsBetweenCellsInMatrix\bin\Debug\PathsBetweenCellsInMatrix.pdb
+c:\users\yo-yo\documents\visual studio 2013\Projects\PathsBetweenCellsInMatrix\PathsBetweenCellsInMatrix\obj\Debug\PathsBetweenCellsInMatrix.csprojResolveAssemblyReference.cache
+c:\users\yo-yo\documents\visual studio 2013\Projects\PathsBetweenCellsInMatrix\PathsBetweenCellsInMatrix\obj\Debug\PathsBetweenCellsInMatrix.exe
+c:\users\yo-yo\documents\visual studio 2013\Projects\PathsBetweenCellsInMatrix\PathsBetweenCellsInMatrix\obj\Debug\PathsBetweenCellsInMatrix.pdb

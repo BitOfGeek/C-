@@ -1,0 +1,5 @@
+c:\users\yo-yo\documents\visual studio 2013\Projects\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+c:\users\yo-yo\documents\visual studio 2013\Projects\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+c:\users\yo-yo\documents\visual studio 2013\Projects\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+c:\users\yo-yo\documents\visual studio 2013\Projects\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+c:\users\yo-yo\documents\visual studio 2013\Projects\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb

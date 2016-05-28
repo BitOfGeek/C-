@@ -1,0 +1,6 @@
+c:\users\yo-yo\documents\visual studio 2013\Projects\EightQueens\EightQueens\bin\Debug\EightQueens.exe.config
+c:\users\yo-yo\documents\visual studio 2013\Projects\EightQueens\EightQueens\bin\Debug\EightQueens.exe
+c:\users\yo-yo\documents\visual studio 2013\Projects\EightQueens\EightQueens\bin\Debug\EightQueens.pdb
+c:\users\yo-yo\documents\visual studio 2013\Projects\EightQueens\EightQueens\obj\Debug\EightQueens.csprojResolveAssemblyReference.cache
+c:\users\yo-yo\documents\visual studio 2013\Projects\EightQueens\EightQueens\obj\Debug\EightQueens.exe
+c:\users\yo-yo\documents\visual studio 2013\Projects\EightQueens\EightQueens\obj\Debug\EightQueens.pdb

@@ -1,0 +1,6 @@
+c:\users\yo-yo\documents\visual studio 2013\Projects\NestedLoopsToRecursion\NestedLoopsToRecursion\bin\Debug\NestedLoopsToRecursion.exe.config
+c:\users\yo-yo\documents\visual studio 2013\Projects\NestedLoopsToRecursion\NestedLoopsToRecursion\bin\Debug\NestedLoopsToRecursion.exe
+c:\users\yo-yo\documents\visual studio 2013\Projects\NestedLoopsToRecursion\NestedLoopsToRecursion\bin\Debug\NestedLoopsToRecursion.pdb
+c:\users\yo-yo\documents\visual studio 2013\Projects\NestedLoopsToRecursion\NestedLoopsToRecursion\obj\Debug\NestedLoopsToRecursion.csprojResolveAssemblyReference.cache
+c:\users\yo-yo\documents\visual studio 2013\Projects\NestedLoopsToRecursion\NestedLoopsToRecursion\obj\Debug\NestedLoopsToRecursion.exe
+c:\users\yo-yo\documents\visual studio 2013\Projects\NestedLoopsToRecursion\NestedLoopsToRecursion\obj\Debug\NestedLoopsToRecursion.pdb

@@ -1,0 +1,5 @@
+c:\users\yo-yo\documents\visual studio 2013\Projects\CombinationsWithoutRepetition\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.exe.config
+c:\users\yo-yo\documents\visual studio 2013\Projects\CombinationsWithoutRepetition\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.exe
+c:\users\yo-yo\documents\visual studio 2013\Projects\CombinationsWithoutRepetition\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.pdb
+c:\users\yo-yo\documents\visual studio 2013\Projects\CombinationsWithoutRepetition\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetition.exe
+c:\users\yo-yo\documents\visual studio 2013\Projects\CombinationsWithoutRepetition\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetition.pdb

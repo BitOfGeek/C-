@@ -1,0 +1,6 @@
+c:\users\yo-yo\documents\visual studio 2013\Projects\ReverseArray\ReverseArray\bin\Debug\ReverseArray.exe.config
+c:\users\yo-yo\documents\visual studio 2013\Projects\ReverseArray\ReverseArray\bin\Debug\ReverseArray.exe
+c:\users\yo-yo\documents\visual studio 2013\Projects\ReverseArray\ReverseArray\bin\Debug\ReverseArray.pdb
+c:\users\yo-yo\documents\visual studio 2013\Projects\ReverseArray\ReverseArray\obj\Debug\ReverseArray.csprojResolveAssemblyReference.cache
+c:\users\yo-yo\documents\visual studio 2013\Projects\ReverseArray\ReverseArray\obj\Debug\ReverseArray.exe
+c:\users\yo-yo\documents\visual studio 2013\Projects\ReverseArray\ReverseArray\obj\Debug\ReverseArray.pdb
