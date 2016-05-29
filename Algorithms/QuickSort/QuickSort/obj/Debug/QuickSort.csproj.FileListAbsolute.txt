@@ -1,0 +1,1 @@
+c:\users\yo-yo\documents\visual studio 2013\Projects\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
