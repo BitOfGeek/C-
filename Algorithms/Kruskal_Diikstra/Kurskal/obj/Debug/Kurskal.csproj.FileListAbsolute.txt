@@ -1,0 +1,15 @@
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.exe.config
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.exe
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.exe
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.pdb
+C:\Users\Yo-Yo\Desktop\Algorithms\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.exe.config
+C:\Users\Yo-Yo\Desktop\Algorithms\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.exe
+C:\Users\Yo-Yo\Desktop\Algorithms\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.pdb
+C:\Users\Yo-Yo\Desktop\Algorithms\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.exe
+C:\Users\Yo-Yo\Desktop\Algorithms\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.pdb
+C:\Users\Yo-Yo\Desktop\Algorithms\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.csprojResolveAssemblyReference.cache
+C:\Users\Yo-Yo\Desktop\Algorithms\Kruskal and Diikstra\Kurskal\bin\Debug\Kurskal.exe.config
+C:\Users\Yo-Yo\Desktop\Algorithms\Kruskal and Diikstra\Kurskal\obj\Debug\Kurskal.exe
+C:\Users\Yo-Yo\Desktop\Algorithms\Kruskal and Diikstra\Kurskal\obj\Debug\Kurskal.pdb
