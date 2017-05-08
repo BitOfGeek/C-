@@ -1,0 +1,80 @@
+﻿<Window x:Class="Person_StudentTeacher_2._0_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="500" Width="500"
+        MinHeight="500" MinWidth="500" 
+        MaxHeight="500" MaxWidth="500">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.3*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="0.7*"/>
+        </Grid.ColumnDefinitions>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="0.5*"/>
+        </Grid.RowDefinitions>
+               
+        <RadioButton GroupName="StudentTeacherRadioButton" x:Name="StudentButton" Grid.Row="0" Grid.Column="1"
+                     IsChecked="True" Content="Student" VerticalAlignment="Center" PreviewMouseLeftButtonDown="TeacherMode"/>
+
+        <RadioButton GroupName="StudentTeacherRadioButton" x:Name="TeacherButton" Grid.Row="0" Grid.Column="1"
+                     Margin="150, 0, 0, 0" Content="Teacher" VerticalAlignment="Center" PreviewMouseLeftButtonDown="TeacherMode"/>
+        
+        <Label Grid.Row="1" Grid.Column="0" HorizontalAlignment="Right" Name="SearchLabel" VerticalAlignment="Top" Content="Search:"/>
+        <TextBox Name="SearchBox" Grid.Row="1" Grid.Column="1" AcceptsReturn="True" 
+                 HorizontalAlignment="Stretch" VerticalAlignment="Top" TextAlignment="Left" PreviewKeyDown="KeyEnterCheck"/>
+
+        <Button Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Top"  Width="50"
+                Content="Search" PreviewMouseLeftButtonDown="SearchButton"/>
+
+        <ComboBox Grid.Row="1" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Bottom" SelectedValuePath="Content" Name="AllStudents" Visibility="Hidden" SelectionChanged="ComboBox_SelectedStudent"/>
+        <ComboBox Grid.Row="1" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Bottom" SelectedValuePath="Content" Name="AllTeachers" Visibility="Hidden" SelectionChanged="ComboBox_SelectedTeacher"/>
+        
+        <Button Grid.Row="2" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Top"  Width="50"
+                Content="View All" PreviewMouseLeftButtonDown="ViewAllButton"/>
+
+        <Label Grid.Row="2" Grid.Column="0" HorizontalAlignment="Right" Name="NameLabel" VerticalAlignment="Center" Content="Name:"/>
+        <TextBox Name="EnterName" Grid.Row="2" Grid.Column="1" AcceptsReturn="True" 
+                 HorizontalAlignment="Stretch" VerticalAlignment="Center" TextAlignment="Left"/>
+        
+        <Label Grid.Row="3" Grid.Column="0" HorizontalAlignment="Left" Name="FacNumLabel" VerticalAlignment="Center">
+            <Viewbox Stretch="Uniform">
+                <TextBlock Text="Fac Number:" />
+            </Viewbox>
+        </Label>        
+        <TextBox Name="EnterFacNum" Grid.Row="3" Grid.Column="1" AcceptsReturn="True" 
+                 HorizontalAlignment="Stretch" VerticalAlignment="Center" TextAlignment="Left"/>
+        
+        <Label Grid.Row="4" Grid.Column="0" HorizontalAlignment="Right" Name="EGNLabel" VerticalAlignment="Center" Content="EGN:"/>
+        <TextBox Name="EnterEGN" Grid.Row="4" Grid.Column="1" AcceptsReturn="True" 
+                 HorizontalAlignment="Stretch" VerticalAlignment="Center" TextAlignment="Left"/>
+        
+        <Label Grid.Row="5" Grid.Column="0" HorizontalAlignment="Right" Name="FacultyLabel" VerticalAlignment="Center" Content="Faculty:"/>  
+        <TextBox Name="EnterFaculty" Grid.Row="5" Grid.Column="1" AcceptsReturn="True" 
+                 HorizontalAlignment="Stretch" VerticalAlignment="Center" TextAlignment="Left"/>
+        
+        <Label Grid.Row="6" Grid.Column="0" HorizontalAlignment="Right" Name="SpecialtyLabel" VerticalAlignment="Center" Content="Specialty:"/>       
+        <TextBox Name="EnterSpecialty" Grid.Row="6" Grid.Column="1" AcceptsReturn="True" 
+                 HorizontalAlignment="Stretch" VerticalAlignment="Center" TextAlignment="Left"/>
+        
+        <Label Grid.Row="7" Grid.Column="0" HorizontalAlignment="Right" Name="GenderLabel" VerticalAlignment="Center" Content="Gender"/>
+        <ComboBox Grid.Row="7" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center" SelectedValuePath="Content" Name="ComboBoxGender">
+            <ComboBoxItem>Male</ComboBoxItem>
+            <ComboBoxItem>Female</ComboBoxItem>
+        </ComboBox>
+
+        <Button Grid.Row="6" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Bottom" 
+                Content="Save" Width="50" PreviewMouseLeftButtonDown="SaveButton"/>
+        <Button Grid.Row="7" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                Content="Delete"  Width="50" PreviewMouseLeftButtonDown="DeleteButton"/>
+
+    </Grid>
+</Window>

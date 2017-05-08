@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProductModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductModel>
+    <Name>Sugar</Name>
+    <Price>0.1</Price>
+  </ProductModel>
+  <ProductModel>
+    <Name>Cream</Name>
+    <Price>0.5</Price>
+  </ProductModel>
+  <ProductModel>
+    <Name>Cinnamon</Name>
+    <Price>0.4</Price>
+  </ProductModel>
+  <ProductModel>
+    <Name>Milk</Name>
+    <Price>0.3</Price>
+  </ProductModel>
+</ArrayOfProductModel>

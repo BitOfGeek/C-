@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProductModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductModel>
+    <Name>Espresso</Name>
+    <Price>1.2</Price>
+  </ProductModel>
+  <ProductModel>
+    <Name>Decaf</Name>
+    <Price>1.5</Price>
+  </ProductModel>
+  <ProductModel>
+    <Name>Cappuccino</Name>
+    <Price>1.7</Price>
+  </ProductModel>
+  <ProductModel>
+    <Name>HotChocolate</Name>
+    <Price>1</Price>
+  </ProductModel>
+  <ProductModel>
+    <Name>Mocca</Name>
+    <Price>2</Price>
+  </ProductModel>
+  <ProductModel>
+    <Name>Latte</Name>
+    <Price>1.4</Price>
+  </ProductModel>
+</ArrayOfProductModel>
